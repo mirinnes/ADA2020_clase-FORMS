@@ -1,0 +1,21 @@
+button {
+    display: block;
+    background-color: crimson;
+    color: white;
+    height: 45px;
+    width: 250px;
+    border: none;
+    margin-bottom: 25px;
+    cursor: pointer; /*le dice a mi button que cuando pase el mouse cambie el iconito*/
+    transition: all 0.2s linear;
+} /*hover=pasar por arriba, vacilar*/
+button:hover {
+    background-color: teal;
+}
+button:active {
+    background-color: violet;
+}
+/*me cambia cuando estoy escribiendo, cuando lo selecciono*/
+input:focus {
+
+}

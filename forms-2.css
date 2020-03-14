@@ -1,0 +1,16 @@
+body {
+    background-color: #4ec057;
+}
+
+#login-form {
+    background-color: white;
+    box-sizing: border-box; /* me mantiene el width sin modificar con el padding*/
+    padding: 45px;
+    width: 360px;
+}
+
+textarea {
+    height: 200px;
+    width: 400px;
+    resize: none; /*no deja q el usuario cambie el tamaño*/
+}

@@ -112,8 +112,8 @@ body {
     box-shadow: 0 0 3px #3273DC;
 
 }
-.sign-in--texto form > input:valid {
-    /*border-color:  rgb(219, 9, 9); 
+/*.sign-in--texto form > input:valid {
+    border-color:  rgb(219, 9, 9); 
     ¿por que no funciona bien?*/
 }
 .sign-in--texto form > input:invalid {
